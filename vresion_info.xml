@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Sample App Updates</title>
+        <item>
+            <title>Version 2.0.0</title>
+            <description>新機能と改善点を含むアップデートです。</description>
+            <pubDate>Wed, 05 Mar 2025 13:47:49 +0900</pubDate>
+            <enclosure url="https://example.com/app.apk" sparkle:version="2.0.0" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
